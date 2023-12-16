@@ -1,3 +1,3 @@
 NAME: hyedol2
-Minecraft Bedrock Mode Maker
-Publish some addons
+
+Minecraft Bedrock Moder
