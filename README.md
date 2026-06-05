@@ -1,3 +1,4 @@
 NAME: hyedol2
 
-a
+Im 15 y.o. so i cant code well :(
+(i was born in 2012)
